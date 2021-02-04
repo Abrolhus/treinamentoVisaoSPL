@@ -1,4 +1,4 @@
-# treinamento OpenCV - Visao SPL
+# Treinamento OpenCV - Visão SPL
 Todas os desafios separados por semana,
 Todos implementados usando OpenCV 2.4.13
 - [x] OpenCV Introduction
